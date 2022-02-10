@@ -1,5 +1,3 @@
 # lab3
+whee i make merge conflict muahahaha
 
-Michael Jackson be like:
-
-hee hee
